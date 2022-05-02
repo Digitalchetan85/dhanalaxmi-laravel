@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" href="{{asset('assets/images/logoicon.jpg')}}" type="image/jpg">
-    <title>JDR Consultancy</title>
+    <title>Migration Abroad</title>
     <!-- Google Font CSS -->
     <link
         href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700%7cPT+Serif:400,400i,700,700i"
@@ -31,13 +31,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12 col-12 d-none d-sm-none d-lg-block d-xl-block">
-                    <p class="welcome-text">Welcome to JDR Consultancy</p>
+                    <p class="welcome-text">Welcome to Migration Abroad</p>
                 </div>
                 <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12 col-12">
                     <div class="header-block">
                         <span class="header-link d-none d-xl-block"><a href="#" class="anchor-link">Talk to Our
                                 Expert</a></span>
-                        <span class="header-link">info@jdrconsultancy.com</span>
+                        <span class="header-link">info@migrationabroad.com</span>
                         <span class="header-link"><a data-toggle="modal" data-target="#searchModal"
                                 class="btn btn-primary btn-sm text-white">Enquiry Now</a></span>
                     </div>
@@ -57,7 +57,7 @@
                                 <img src="{{asset('assets/images/logo.jpg')}}" class="img-fluid">
                             </div>
                             {{-- <div class="col-xl-10 col-lg-10 col-10 text-center">
-                                <h2 class="mb-0" style="color: #ff0042;"><b>JDR Consultancy</b></h2>
+                                <h2 class="mb-0" style="color: #ff0042;"><b>Migration Abroad</b></h2>
                                 <small class="text-muted">Abroad Education Consultancy</small>
                             </div> --}}
                         </div>
@@ -80,9 +80,9 @@
                             <div class="header-icon"> <i class="fa fa-map-marker"></i></div>
                             <div class="header-block-info">
                                 <div class="text-head">Our Bangalore</div>
-                                <div class="text-address">
+                                <!-- <div class="text-address">
                                     Hyderabad
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>
@@ -103,16 +103,16 @@
                             <li><a href="#">Services</a>
                                 <ul>
                                     <li><a href="{{route('services.free-counselling')}}">Free Counselling </a></li>
-                                    <li><a href="#">Free Visa Filling </a></li>
-                                    <li><a href="#">Flight Bookings </a></li>
+                                    <!-- <li><a href="#">Free Visa Filling </a></li>
+                                    <li><a href="#">Flight Bookings </a></li> -->
                                 </ul>
                             </li>
                             <li><a href="study_abroad.html">Study Abroad</a>
                                 <ul>
-                                    <li><a href="{{route('study-abroad.usa')}}">STUDY IN USA</a></li>
-                                    <li><a href="#">STUDY IN UK</a></li>
-                                    <li><a href="#">STUDY IN NEW ZEALAND</a></li>
-                                    <li><a href="#">STUDY IN AUSTRALIA </a></li>
+                                    <li><a href="{{route('study-abroad.usa')}}">USA</a></li>
+                                    <li><a href="#">CANADA</a></li>
+                                    <!-- <li><a href="#">STUDY IN NEW ZEALAND</a></li>
+                                    <li><a href="#">STUDY IN AUSTRALIA </a></li> -->
                                 </ul>
                             </li>
                             <li><a href="{{route('contact')}}">Contact Us</a></li>
@@ -134,18 +134,15 @@
                 <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
                     <div class="widget-footer">
                         <h3 class="widget-title">About us</h3>
-                        <p>JDR Consultancy, one of the top study migration consultants, understand the challenges
-                            arising during study migration. Our primary goal is to assist you in scaling through these
-                            processes, such as assessment, documentation, and filing.</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sodales scelerisque ipsum. Praesent ac arcu ultricies risus scelerisque vulputate. Etiam vel rutrum lacus. </p>
                     </div>
                 </div>
                 <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-6">
                     <div class="widget-footer">
-                        <h3 class="widget-title">Study Abroad</h3>
+                        <h3 class="widget-title">Migration Abroad</h3>
                         <ul class="listnone arrow-footer">
-                            <li><a href="study_in_usa.html">STUDY IN USA</a></li>
-                            <li><a href="study_in_uk.html">STUDY IN UK</a></li>
-                            <li><a href="study_in_new_zealand.html">STUDY IN NEW ZEALAND</a></li>
+                            <li><a href="study_in_usa.html">USA</a></li>
+                            <li><a href="study_in_uk.html">Canada</a></li>
                         </ul>
                     </div>
                 </div>
@@ -154,8 +151,8 @@
                         <h3 class="widget-title">Services</h3>
                         <ul class="listnone arrow-footer">
                             <li><a href="free_counselling.html">Free Counselling </a></li>
-                            <li><a href="Free_visa_filling.html">Free Visa Filling </a></li>
-                            <li><a href="flight_bookings.html">Flight Bookings </a></li>
+                            <!-- <li><a href="Free_visa_filling.html">Free Visa Filling </a></li>
+                            <li><a href="flight_bookings.html">Flight Bookings </a></li> -->
                         </ul>
                     </div>
                 </div>
@@ -163,17 +160,16 @@
                     <div class="widget-footer">
                         <h3 class="widget-title">Contact Us</h3>
                         <ul class="listnone">
-                            <li><a href="#"><i class="fa fa-envelope pr-2"></i> info@jdrconsultancy.com</a></li>
-                            <li><a href="#"><i class="fa fa-envelope pr-2"></i> jdrconsultancy@gmail.com</a></li>
+                            <li><a href="#"><i class="fa fa-envelope pr-2"></i> info@migrationabroad.com</a></li>
+                            <li><a href="#"><i class="fa fa-envelope pr-2"></i> migrationabroad@gmail.com</a></li>
                             <li><a href="#"><i class="fa fa-phone pr-2"></i> +91 9513838585</a></li>
-                            <li><a href="#"><i class="fa fa-map-marker pr-2"></i>3RD FLOOR, 707, NTI LAYOUT, 10 CROSS,
-                                    10TH MAIN, II PHASE, Sahakara Nagar Bengaluru Urban, Karnataka, 560092</a></li>
+                            <li><a href="#"><i class="fa fa-map-marker pr-2"></i>1st FLOOR, 483, 8th CROSS, Jeevan Bhima Nagar Bengaluru, Karnataka, 560092</a></li>
                         </ul>
                         <ul class="listnone mt-2">
-                            <a href="#" target="_blank"><i class="fa fa-facebook pr-2"></i></a>
-                            <a href="#" target="_blank"><i class="fa fa-linkedin pr-2"></i></a>
-                            <a href="#"><i class="fa fa-instagram pr-2"></i></a>
-                            <a href="#"><i class="fa fa-youtube pr-2"></i></a>
+                            <a href="#" target="_blank"><i class="fa-brands fa-facebook pr-2"></i></a>
+                            <a href="#" target="_blank"><i class="fa-brands fa-linkedin pr-2"></i></a>
+                            <a href="#"><i class="fa-brands fa-instagram pr-2"></i></a>
+                            <a href="#"><i class="fa-brands fa-youtube pr-2"></i></a>
                         </ul>
                     </div>
                 </div>
@@ -186,14 +182,14 @@
         <div class="container">
             <div class="row">
                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 text-center">
-                    <p><b>Copyright © 2022 JDR Consultancy. All Rights Reserved.</b></p>
+                    <p><b>Copyright © 2022 Migration Abroad. All Rights Reserved.</b></p>
                 </div>
             </div>
         </div>
     </div>
     <!-- /.tiny footer -->
     <a href="https://api.whatsapp.com/send?phone=919513838585" class="float" target="_blank">
-        <i class="fa-brands fa-whatsapp my-float"></i>
+    <i class="fa-brands fa-whatsapp my-float"></i>
     </a>
     <!-- Search Modal -->
     <div class="searchModal">

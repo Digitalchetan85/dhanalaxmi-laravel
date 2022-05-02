@@ -32,7 +32,7 @@
                 <div class="col-xl-5 col-lg-5 col-md-7 col-sm-12 col-12">
                     <div class="contact-form-head">
                         <h2 class="mb0">Leave a Message Here</h2>
-                        <p>One of our Dhanalaxmi Overseas Consultants will connect with you ASAP.</p>
+                        <p>One of our Migragtion Abroad Consultants will connect with you ASAP.</p>
                     </div>
                     <div class="contact-form mt30">
                         <form class="rounded bg-white">
@@ -96,16 +96,16 @@
                 </div>
                 <div class="offset-xl-1 col-xl-6 offset-lg-1 col-lg-5 col-md-5 col-sm-12 col-12">
                     <h2>Quick Contact</h2>
-                    <p>We are pleased to discuss your qualifications and options under the various immigration programs and answer any questions or concerns you may have.</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec erat dui. Suspendisse et mauris et risus finibus lobortis a vitae ligula. Quisque suscipit tincidunt tincidunt. .</p>
                     <h4 class="mb0">Phone</h4>
                     <p>+91-9513838585</p>
                     <div class="row mb30">
                         <div class="col">
                             <h4 class="mb0">Email</h4>
-                            <p>info@jdrconsultancy.com</p>
+                            <p>info@migrationabroad.com</p>
                         </div>
                     </div>
-                    <div class="row mb20">
+                    <!-- <div class="row mb20">
                         <div class="col mb10">
                             <h4 class="mb0">Inquire with us</h4>
                             <p>info@jdrconsultancy.com</p>
@@ -124,12 +124,12 @@
                             <h4 class="mb0">For Alliance with us</h4>
                             <p>info@jdrconsultancy.com</p>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="row">
                         <div class="col">
                             <h4 class="mb0">Head Office</h4>
-                            <p>3RD FLOOR, 707, NTI LAYOUT, 10 CROSS, 10TH MAIN, II PHASE, Sahakara Nagar Bengaluru Urban, Karnataka, 560092</p>
-                            <a href="#" class="btn-link-primary">View our all office & locations</a>
+                            <p>1st FLOOR, 483, 8th CROSS, Jeevan Bhima Nagar Bengaluru, Karnataka, 560092</p>
+                            <!-- <a href="#" class="btn-link-primary">View our all office & locations</a> -->
                         </div>
                     </div>
                 </div>

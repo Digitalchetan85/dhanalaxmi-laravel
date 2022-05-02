@@ -9,10 +9,8 @@
                     <div class="row">
                         <div class="col-xl-6 col-lg-6 col-sm-8 col-md-9 col-8">
                             <div class="slider-captions" style="width:460px;">
-                                <h1 class="slider-title dotted-line">Want to study abroad ?</h1>
-                                <p class="slider-text hidden-xs">Are you curious to think more about and explore the
-                                    reasons why to study abroad? Would it help to learn about why other students want to
-                                    study abroad? Book a free consultation with us!</p>
+                                <h1 class="slider-title dotted-line">Want to Migrate abroad ?</h1>
+                                <p class="slider-text hidden-xs">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sodales scelerisque ipsum. Praesent ac arcu ultricies risus scelerisque vulputate. !</p>
                                 <a href="#" class="btn btn-primary btn-lg">BOOK A CONSULTATION</a>
                             </div>
                         </div>
@@ -26,9 +24,8 @@
                     <div class="row">
                         <div class="col-xl-6 col-lg-6 col-sm-8 col-md-9 col-8">
                             <div class="slider-captions" style="width:460px;">
-                                <h1 class="slider-title dotted-line">IELTS / PTE / TOFEL / English</h1>
-                                <p class="slider-text hidden-xs"> Does your English sound awkward to everyone? No
-                                    problem, we provide exclusive guidance and help in the preparation!</p>
+                                <h1 class="slider-title dotted-line">USA / Canada</h1>
+                                <p class="slider-text hidden-xs"> Aenean volutpat nec diam a feugiat. Proin non est in urna sagittis eleifend sed vitae augue. Etiam arcu arcu, iaculis vitae finibus et, finibus in enim. Vestibulum elementum luctus mi, in feugiat ligula pulvinar et. Maecenas mattis elementum erat non accumsan.!</p>
                                 <a href="#" class="btn btn-primary btn-lg">BOOK A CONSULTATION</a>
                             </div>
                         </div>
@@ -41,10 +38,8 @@
                     <div class="row">
                         <div class="col-xl-6 col-lg-6 col-sm-8 col-md-9 col-8">
                             <div class="slider-captions" style="width:460px;">
-                                <h1 class="slider-title dotted-line">Study Migration Consultants</h1>
-                                <p class="slider-text hidden-xs">We help people to migrate for study from one country to
-                                    another country through legal and documentation processes to increase the chances of
-                                    for study, Make the most of us!</p>
+                                <h1 class="slider-title dotted-line">Migration Abroad</h1>
+                                <p class="slider-text hidden-xs"> Etiam vel rutrum lacus. Aliquam a leo et nibh dignissim facilisis at non nunc. Donec vehicula aliquam pellentesque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. !</p>
                                 <a href="#" class="btn btn-primary btn-lg">BOOK A CONSULTATION</a>
                             </div>
                         </div>
@@ -119,14 +114,10 @@
             <div class="row">
                 <div class="col-xl-6 col-lg-6 col-md-7 col-sm-6 col-12">
                     <h2>About Our Consultancy</h2>
-                    <p>Being one of the top study migration consultants, we understand the challenges arising during
-                        migration. Our primary goal is to assist you in scaling through these processes, such as
-                        assessment, documentation, and filing.</p>
-                    <p>Our international education professionals have extensive expertise and knowledge of the whole
-                        study abroad process. We can help you choose the destination, school, and course, as well as aid
-                        you with your application, SOP, visa application, and other paperwork.</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sodales scelerisque ipsum. Praesent ac arcu ultricies risus scelerisque vulputate. Etiam vel rutrum lacus. Aliquam a leo et nibh dignissim facilisis at non nunc. Donec vehicula aliquam pellentesque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque ut congue arcu, ac fermentum arcu. Etiam finibus est in auctor fermentum. Aenean volutpat nec diam a feugiat. Proin non est in urna sagittis eleifend sed vitae augue. Etiam arcu arcu, iaculis vitae finibus et, finibus in enim. Vestibulum elementum luctus mi, in feugiat ligula pulvinar et. Maecenas mattis elementum erat non accumsan..</p>
+                    <p>Curabitur faucibus dolor non lorem laoreet molestie. Donec pharetra massa in dignissim aliquam. Aliquam tincidunt lorem non lorem consequat imperdiet. Nulla id pretium est, at tristique justo. Vivamus rutrum molestie purus, eu tempor diam viverra a. Phasellus imperdiet arcu leo, vitae ultrices mi malesuada et. Nam eu lacinia urna, bibendum feugiat augue..</p>
                     <p>Get in touch with us today, so we can help you to realise your dream.</p>
-                    <a href="about_us.html" class="btn btn-default">About JDR Consultancy</a> <a href="Contact_us.html"
+                    <a href="about_us.html" class="btn btn-default">About Migration Abroad</a> <a href="Contact_us.html"
                         class="btn btn-primary">Contact us</a>
                 </div>
                 <div class="offset-xl-1 col-xl-5 offset-lg-1 col-lg-5 col-md-5 col-sm-6 col-12">
@@ -146,7 +137,7 @@
                     <div class="section-title text-center">
                         <!-- section title start-->
                         <h2>What We Do</h2>
-                        <p>We partner with over 60+ colleges in 14 states that are committed to helping highly-motivated like you, complete your education.</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sodales scelerisque ipsum. Praesent ac arcu ultricies risus scelerisque vulputate. Etiam vel rutrum lacus.</p>
                     </div>
                     <!-- /.section title start-->
                 </div>
@@ -218,13 +209,7 @@
                                     <div class="testimonial-boxed-block">
                                         <!-- testimonial block -->
                                         <div class="testimonial-boxed-content">
-                                            <p class="testimonial-boxed-text">“I am Ayush Sharma,now a permanent
-                                                resident in Canada and the entire process was taken care of by JDR
-                                                Consultancy. I'm especially writing this review to thank the whole team
-                                                who have assisted me from choosing school, getting admission, till my
-                                                departure. I appreciate all the hard work done by them, all the efforts
-                                                taken by them, so my message to them is just to keep up the good work, I
-                                                appreciate all the work done by you. Today I have got my PR after study,
+                                            <p class="testimonial-boxed-text">“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sodales scelerisque ipsum. Praesent ac arcu ultricies risus scelerisque vulputate. Etiam vel rutrum lacus. Aliquam a leo et nibh dignissim facilisis at non nunc. Donec vehicula aliquam pellentesque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque ut congue arcu, ac fermentum arcu. Etiam finibus est in auctor fermentum. Aenean volutpat nec diam a feugiat. Proin non est in urna sagittis eleifend sed vitae augue. Etiam arcu arcu, iaculis vitae finibus et, finibus in enim. Vestibulum elementum luctus mi, in feugiat ligula pulvinar et. Maecenas mattis elementum erat non accumsan.
                                                 All credits your team. Thank You!”</p>
                                         </div>
                                         <div class="testimonial-boxed-info">
@@ -256,14 +241,7 @@
                                     <div class="testimonial-boxed-block">
                                         <!-- testimonial block -->
                                         <div class="testimonial-boxed-content">
-                                            <p class="testimonial-boxed-text">“First of all, I would like to thank JDR
-                                                Consultancy for helping me from getting my offer from Georgia Tech, fee
-                                                payments, loan arrangements, finding me good accommodation and Visa
-                                                process. I would recommend JDR Consultancy to all of my friend's and
-                                                anyone willing to go abroad for higher education. They provided
-                                                excellent training with mock interviews and everything that I wasn't
-                                                sure about, best thing is that they offer us free, personalized
-                                                guidance. Go for it guys!”</p>
+                                            <p class="testimonial-boxed-text">“Interdum et malesuada fames ac ante ipsum primis in faucibus. Proin suscipit sagittis bibendum. Etiam nec sagittis purus. Duis placerat neque et interdum vestibulum. Maecenas leo dui, mollis vel mauris ac, bibendum bibendum ipsum. Pellentesque sodales a felis consectetur varius. Morbi tristique neque quis nunc dapibus, sed porttitor enim consectetur. Praesent lectus arcu, imperdiet ultrices dolor sed, consequat pharetra massa. Donec vel vestibulum nunc.. Go for it guys!”</p>
                                         </div>
                                         <div class="testimonial-boxed-info">
                                             <h4 class="testimonial-name">Ananya Verma</h4>

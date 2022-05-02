@@ -4,8 +4,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
-                    <h1 class="page-title">About JDR Consultancy</h1>
-                    <p class="page-description">Study abroad for better employment opportunities, a higher standard of living. Reach out to us for other opportunities for more details.</p>
+                    <h1 class="page-title">About Migration Abroad</h1>
+                    <p class="page-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sodales scelerisque ipsum. .</p>
                 </div>
             </div>
         </div>
@@ -31,12 +31,11 @@
             <div class="row">
                 <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
                     <h2>About our consulting</h2>
-                    <p class="lead">JDR Consultancy, one of the top study migration consultants, understand the challenges arising during study migration. Our primary goal is to assist you in scaling through these processes, such as assessment, documentation, and filing.</p>
-                    <p>JDR Consultancy provides assistance to study in all top countries surf through the top-ranked schools and help you to pursue your dream.</p>
-                    <p>We have expert professionals, who will guide from the beginning to the end process(from getting an offer letter to getting a visa and accommodation).</p>
-                    <p>We have a global presence with a strategic network of own and associate offices in 25 locations across the world. We are planning to extend our services to over 20 offices by the year-end.</p>
+                    <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sodales scelerisque ipsum. Praesent ac arcu ultricies risus scelerisque vulputate. Etiam vel rutrum lacus. </p>
+                    <p>Aliquam a leo et nibh dignissim facilisis at non nunc. Donec vehicula aliquam pellentesque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque ut congue arcu, ac fermentum arcu. Etiam finibus est in auctor fermentum. Aenean volutpat nec diam a feugiat. Proin non est in urna sagittis eleifend sed vitae augue. Etiam arcu arcu, iaculis vitae finibus et, finibus in enim. Vestibulum elementum luctus mi, in feugiat ligula pulvinar et. Maecenas mattis elementum erat non accumsan..</p>
+                    <p>Curabitur faucibus dolor non lorem laoreet molestie. Donec pharetra massa in dignissim aliquam. Aliquam tincidunt lorem non lorem consequat imperdiet. Nulla id pretium est, at tristique justo. Vivamus rutrum molestie purus, eu tempor diam viverra a. Phasellus imperdiet arcu leo, vitae ultrices mi malesuada et. Nam eu lacinia urna, bibendum feugiat augue..</p>
                     <p>Get in touch with us today, so we can help you to realise your dream.</p>
-                    <p class="text-default">Call:  +91 8919218102</p>
+                    <p class="text-default">Call:  +91 9513838585</p>
                 </div>
                 <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
                     <div class="image-block"><img src="{{asset('assets/images/about-us-fancy-img-2.png')}}" alt="" class="img-fluid"></div>
@@ -58,7 +57,7 @@
                         <div class="feature-blurb">
                             <div class="feature-content">
                                 <h3 class="feature-title">Our Vision</h3>
-                                <p>Our vision is to provide all our clients with a convenient, trustworthy and professional study migration service with personalized guidance. Whether you have immediate or pressing goals or long-term dreams, we will work with you to fulfil them.</p>
+                                <p>951Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sodales scelerisque ipsum. Praesent ac arcu ultricies risus scelerisque vulputate. Etiam vel rutrum lacus. Aliquam a leo et nibh dignissim facilisis at non nunc. 3838585</p>
                             </div>
                         </div>
                     </div>
@@ -71,8 +70,8 @@
                     <div class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 col-md-12 col-sm-12 col-12">
                         <div class="section-title text-center">
                             <!-- section title start-->
-                            <h2>Why JDR Consultancy?</h2>
-                            <p> Since our founding, our primary goal has been to provide immigration in all over country and universities. Our impact is speak louder than our word.</p>
+                            <h2>Why Migration Abroad</h2>
+                            <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sodales scelerisque ipsum. Praesent ac arcu ultricies risus scelerisque vulputate. Etiam vel rutrum lacus. Aliquam a leo et nibh dignissim facilisis at non nunc. </p>
                         </div>
                         <!-- /.section title start-->
                     </div>

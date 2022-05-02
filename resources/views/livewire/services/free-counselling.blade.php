@@ -5,7 +5,7 @@
             <div class="row">
                 <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
                     <h1 class="page-title">Free Counselling  </h1>
-                    <p class="page-description">All of our counselling sessions are free, and we strive to make the application process as simple as possible. </p>
+                    <p class="page-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec erat dui. Suspendisse et mauris et risus finibus lobortis a vitae ligula. </p>
                 </div>
             </div>
         </div>
@@ -32,11 +32,10 @@
                 <div class="col-xl-8 col-lg-8 col-md-12 col-sm-12 col-12">
                     <div class="content-area">
                         <h3 class="text-underline">Free Counselling</h3>
-                        <p><b>We don’t charge for counselling and guidance.</b></p>
-                        <p>All of our counselling sessions are free, and we strive to make the application process as simple as possible. We have a team of experienced counsellors who can assist you with school and course choices, application procedures, offer letters, visa applications, and pre-departure briefings. We've already assisted over 100,000 students in finding the right course in their dream destinations.</p>
-                        <p>To schedule a free consultation, please fill out the form or contact us.  Bring your choice list and course selections to your appointment as a starting point. Our experienced professionals will go through your educational background, preferences, and budget with you in-depth to determine your possibilities at various schools.</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec erat dui. Suspendisse et mauris et risus finibus lobortis a vitae ligula. Quisque suscipit tincidunt tincidunt. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce ut urna at mauris cursus commodo non a neque. Praesent non rutrum nisl, ut rhoncus ante. Nullam iaculis tristique nisl, in pellentesque libero pellentesque a. Suspendisse varius mattis dapibus. Nunc dictum malesuada neque sit amet tempus. Maecenas sagittis lorem in tortor congue consequat. Vestibulum a quam a leo aliquet condimentum ut non magna..</p>
+                        <p>Mauris non lacinia orci. Maecenas vehicula elit non augue gravida fringilla. Nulla viverra dolor ac lectus vulputate, ac molestie risus dignissim. Praesent porttitor hendrerit erat in hendrerit. Maecenas eleifend magna ut ante laoreet dictum. Mauris a risus fermentum elit aliquam sollicitudin non volutpat nibh. Nunc at mi quis purus bibendum tincidunt et sit amet nisl. Pellentesque dolor dolor, pulvinar eu consequat id, laoreet a augue..</p>
                         
-                        <h3 class="text-underline">We support you with</h3>
+                        <!-- <h3 class="text-underline">We support you with</h3>
                         <ul class="listnone check-circle">
                             <li>Through a personal interview, you will receive unbiased and competent advice.</li> 
                             <li>Guidance in Shortlisting of potential schools and universities</li>
@@ -49,12 +48,12 @@
                             <li>Assistance with health insurance and accommodation</li>
                             <li>Regular follow-up and support in person</li>
                             <li>Pre-departure briefing once you receive your visa</li>
-                        </ul>
-                        <p>All of our counsellors are professionally certified, and many of them have experience as international students. Your designated counsellor will go through all of the details and procedures with you to ensure that you are the best fit for your future school and course of study. </p>
-                        <p>Our assistance does not end after you receive your admission letter. Even after you've arrived in your new nation, we'll be here to help you. Come check us out - it's free!</p>
-                        <h3 class="text-underline">Course selection/advice</h3>
+                        </ul> -->
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec erat dui. Suspendisse et mauris et risus finibus lobortis a vitae ligula. Quisque suscipit tincidunt tincidunt. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce ut urna at mauris cursus commodo non a neque.</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec erat dui. Suspendisse et mauris et risus finibus lobortis a vitae ligula. Quisque suscipit tincidunt tincidunt. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce ut urna at mauris cursus commodo non a neque.</p>
+                        <!-- <h3 class="text-underline">Course selection/advice</h3>
                         <p>Are you having trouble deciding which path to take? Personal objectives, career goals, employability, deadlines, money, and other factors must all be considered while choosing a course. Come to us, and we'll help you assess your abilities and choose the best course for you.</p>
-                        <p><b>Reach out to us and get benefited and, it is for free.</b></p>
+                        <p><b>Reach out to us and get benefited and, it is for free.</b></p> -->
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">

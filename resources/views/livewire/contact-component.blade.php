@@ -77,12 +77,10 @@
                                             here</label>
                                     </div>
                                 </div>
-                                <div class="row mb-2">
-                                    <div class="col-md-12">
-                                        <select class="form-select">
-                                            <option value="-- Select Service --">-- Select Service --</option>
-                                            <option value="">one</option>
-                                        </select>
+                                <div class="row-mb-2">
+                                    <label class="control-label sr-only" for="message">Message</label>
+                                    <div class="">
+                                        <textarea class="form-control" id="message" name="message" rows="4" placeholder="Message"></textarea>
                                     </div>
                                 </div>
                                 <div class="row-mb-2">
